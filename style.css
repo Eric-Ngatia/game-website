@@ -75,6 +75,7 @@ body{
 .contact__body__bg{
     height: 100px;
     background-image: url(/Images/gow-modif.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     object-fit: cover;
 }
@@ -188,4 +189,8 @@ label{
 .input-btn-focus-color{
     color: orangered;
 }
+
+
+
+/* ---- footer ---- */
 
